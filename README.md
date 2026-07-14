@@ -12,12 +12,12 @@ Desarrollador **full-stack** en Chile. Me gusta construir sistemas serios de pun
 |---|---|---|
 | [**rag-data-pipeline**](https://github.com/faborubio/rag-data-pipeline) | Pipeline de ingestión RAG: vectoriza PDFs a escala con búsqueda semántica multi-tenant. Rails 8 + pgvector | 🟢 [Demo en vivo](https://fabianragpipeline.duckdns.org/demo.html) |
 | [**consola-transaccional**](https://github.com/faborubio/consola-transaccional) | Back-office bancario: máquina de estados, maker-checker, idempotencia y bloqueo optimista | 🟢 [Demo en vivo](https://traconsole.duckdns.org) |
+| [**faro**](https://github.com/faborubio/faro) | API pública + dashboard de indicadores económicos de Chile (dólar, UF, UTM, IPC). Go + PostgreSQL, fuente oficial CMF | 🟢 [Demo en vivo](https://faro.vibenest.net) |
 | [**veredicto**](https://github.com/faborubio/veredicto) | Motor de decisión de crédito determinista y explicable. Clean Architecture + DDD, capa MCP, 182 tests | 🟡 Beta |
 | [**atalaya**](https://github.com/faborubio/atalaya-fleet-monitoring) | Monitoreo de flota/IoT en tiempo real: telemetría masiva y alertas sub-segundo. Angular + .NET + GCP | 🟡 Beta |
-| [**acopia**](https://github.com/faborubio/acopia) | Optimización de despacho solar + batería (PV-BESS) para el mercado eléctrico chileno. cvxpy + HiGHS | 🔵 MVP |
+| [**acopia**](https://github.com/faborubio/acopia) | Optimización de despacho solar + batería (PV-BESS) para el mercado eléctrico chileno: forecast con incertidumbre + LP determinista (cvxpy + HiGHS), capa MCP y modo DRL medido | 🟡 Beta |
 | [**cauce**](https://github.com/faborubio/cauce) | Simulador del ciclo previsional chileno (acumulación + SCOMP) con núcleo estocástico | 🔵 MVP |
 | [**fleetpilot**](https://github.com/faborubio/fleetpilot) | SaaS B2B de gestión de flotas multi-tenant. Rails 8 + Hotwire, Twilio/SendGrid/Stripe | 🔨 En desarrollo |
-| [**telar**](https://github.com/faborubio/telar) | Design System en Vue 3 + TS, con Tejido, su app de referencia | 🔨 En desarrollo |
 | [**oteo**](https://github.com/faborubio/oteo) | Prospección de negocios locales sin presencia digital, vía Google Places | 🔨 En desarrollo |
 
 > Cada repo lleva un topic `fase-*` con su etapa (idea → prototipo → mvp → beta → producción). El [panel de proyectos](https://faborubio.github.io/dashboard/) los muestra todos con su actividad reciente.
@@ -27,6 +27,7 @@ Desarrollador **full-stack** en Chile. Me gusta construir sistemas serios de pun
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails%208-CC0000?logo=rubyonrails&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue%203-42B883?logo=vuedotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
