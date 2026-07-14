@@ -2,7 +2,7 @@
 
 Desarrollador **full-stack** en Chile. Me gusta construir sistemas serios de punta a punta: motores de decisión y simulación con arquitectura limpia y núcleos deterministas/auditables, frontends en tiempo real, y desplegarlos de verdad — con CI, tests y demo en vivo.
 
-🔗 **[Portafolio](https://fabian-portafolio.web.app)** · 🗂️ **[Panel de proyectos](https://faborubio.github.io/dashboard/)** · 📫 fabian.rubiocs@gmail.com
+🔗 **[Portafolio](https://faborubio.dev)** · 🗂️ **[Panel de proyectos](https://faborubio.github.io/dashboard/)** · 📫 fabian.rubiocs@gmail.com
 
 ---
 
